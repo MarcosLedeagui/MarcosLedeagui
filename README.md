@@ -3,13 +3,13 @@
 <!-- Encabezado -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=180&section=header&text=Marco%20Antonio&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20programaci%C3%B3n&descSize=18&descAlignY=55" alt="Encabezado de Marco Antonio"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=180&section=header&text=Marcos%20Ledeagui&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Estudiante%20de%20programaci%C3%B3n&descSize=18&descAlignY=55" alt="Encabezado de Marco Antonio"/>
 
-# ¡Hola! Soy Marcos Ledeagui 👋
+# Hy! I'm Marcos Ledeagui 👋
 
 ### AI programming development 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudiante+de+programaci%C3%B3n;Aprendiendo+Python%2C+Java+y+Bash;Practicando+Git+y+GitHub;Construyendo+mis+primeros+proyectos" alt="Presentación animada"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Electrical Engineer;Learning+Python%2C+Java+y+Bash;Practicing+Git+y+GitHub;Building+my+first+projects" alt="Presentación animada"/>
 
 </div>
 
